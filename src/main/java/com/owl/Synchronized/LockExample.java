@@ -28,12 +28,12 @@ public class LockExample
                 lock.printClassLock();
             }
         }).start();
-        new Thread(new Runnable() {
-            @Override
-            public void run() {
-                Lock lock = new Lock();
-                lock.printClassLock();
-            }
-        }).start();
+//        new Thread(new Runnable() {
+//            @Override
+//            public void run() {
+//                Lock lock = new Lock();
+//                lock.printClassLock();
+//            }
+//        }).start();
     }
 }

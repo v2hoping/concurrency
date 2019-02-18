@@ -2,29 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d17630b-e6cd-4657-9a81-2073f1688126" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/owl/ConcurrentContainer/ConcurrentHashMapExample.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/owl/ConcurrentContainer/ConcurrentSkipListMapExample.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/owl/ConcurrentContainer/ConcurrentSkipListSetExample.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/owl/ConcurrentContainer/CopyOnWriteArrayListExample.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/owl/ConcurrentContainer/CopyOnWriteArraySetExample.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/owl/ConcurrentContainer/PriorityBlockingQueueExample.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/concurrency.iml" afterPath="$PROJECT_DIR$/concurrency.iml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/owl/BlockingQueue/IndexingExample$1.class" afterPath="$PROJECT_DIR$/target/classes/com/owl/BlockingQueue/IndexingExample$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/owl/BlockingQueue/IndexingExample.class" afterPath="$PROJECT_DIR$/target/classes/com/owl/BlockingQueue/IndexingExample.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/owl/BlockingQueue/IndexingService$1.class" afterPath="$PROJECT_DIR$/target/classes/com/owl/BlockingQueue/IndexingService$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/owl/BlockingQueue/IndexingService$CrawlerThread.class" afterPath="$PROJECT_DIR$/target/classes/com/owl/BlockingQueue/IndexingService$CrawlerThread.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/owl/BlockingQueue/IndexingService$IndexerThread.class" afterPath="$PROJECT_DIR$/target/classes/com/owl/BlockingQueue/IndexingService$IndexerThread.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/owl/BlockingQueue/IndexingService.class" afterPath="$PROJECT_DIR$/target/classes/com/owl/BlockingQueue/IndexingService.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/owl/Synchronized/Lock.class" afterPath="$PROJECT_DIR$/target/classes/com/owl/Synchronized/Lock.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/owl/Synchronized/LockExample$1.class" afterPath="$PROJECT_DIR$/target/classes/com/owl/Synchronized/LockExample$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/owl/Synchronized/LockExample$2.class" afterPath="$PROJECT_DIR$/target/classes/com/owl/Synchronized/LockExample$2.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/owl/Synchronized/LockExample$3.class" afterPath="$PROJECT_DIR$/target/classes/com/owl/Synchronized/LockExample$3.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/owl/Synchronized/LockExample.class" afterPath="$PROJECT_DIR$/target/classes/com/owl/Synchronized/LockExample.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/owl/AppTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/owl/AppTest.class" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/owl/ConcurrentContainer/PriorityBlockingQueueExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/owl/ConcurrentContainer/PriorityBlockingQueueExample.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/owl/BlockingQueue/IndexingExample$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/owl/BlockingQueue/IndexingExample.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/owl/BlockingQueue/IndexingService$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/owl/BlockingQueue/IndexingService$CrawlerThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/owl/BlockingQueue/IndexingService$IndexerThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/owl/BlockingQueue/IndexingService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/owl/Synchronized/Lock.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/owl/Synchronized/LockExample$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/owl/Synchronized/LockExample$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/owl/Synchronized/LockExample$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/owl/Synchronized/LockExample.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,102 +30,11 @@
       <file leaf-file-name="PriorityBlockingQueueExample.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/owl/ConcurrentContainer/PriorityBlockingQueueExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="225">
+              <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BlockingQueue.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/BlockingQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="196" column="10" lean-forward="true" selection-start-line="196" selection-start-column="10" selection-end-line="196" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractCollection.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/AbstractCollection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="260" column="19" lean-forward="false" selection-start-line="260" selection-start-column="19" selection-end-line="260" selection-end-column="19" />
-              <folding>
-                <element signature="e#8767#8768#0" expanded="true" />
-                <element signature="e#8824#8825#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LinkedBlockingQueue.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="330" column="16" lean-forward="false" selection-start-line="330" selection-start-column="16" selection-end-line="330" selection-end-column="16" />
-              <folding>
-                <element signature="e#7388#7389#0" expanded="true" />
-                <element signature="e#7427#7428#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IndexingExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/owl/BlockingQueue/IndexingExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IndexingService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/owl/BlockingQueue/IndexingService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Queue.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Queue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="180" column="0" lean-forward="false" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayBlockingQueue.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2654">
-              <caret line="314" column="7" lean-forward="true" selection-start-line="314" selection-start-column="7" selection-end-line="314" selection-end-column="7" />
-              <folding>
-                <element signature="e#9697#9698#0" expanded="true" />
-                <element signature="e#9732#9733#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractQueue.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/AbstractQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="93" column="19" lean-forward="false" selection-start-line="93" selection-start-column="19" selection-end-line="93" selection-end-column="19" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -143,8 +42,8 @@
       <file leaf-file-name="PriorityBlockingQueue.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/PriorityBlockingQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="509" column="16" lean-forward="false" selection-start-line="509" selection-start-column="16" selection-end-line="509" selection-end-column="16" />
+            <state relative-caret-position="4710">
+              <caret line="363" column="23" lean-forward="false" selection-start-line="363" selection-start-column="23" selection-end-line="363" selection-end-column="23" />
               <folding>
                 <element signature="e#6196#6197#0" expanded="true" />
                 <element signature="e#6248#6249#0" expanded="true" />
@@ -153,6 +52,36 @@
                 <element signature="e#18289#18290#0" expanded="true" />
                 <element signature="e#18336#18337#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndexingExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/owl/BlockingQueue/IndexingExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="14" column="54" lean-forward="false" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndexingService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/owl/BlockingQueue/IndexingService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Queue.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Queue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2190">
+              <caret line="179" column="7" lean-forward="false" selection-start-line="179" selection-start-column="7" selection-end-line="179" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -265,6 +194,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -359,10 +292,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -674,7 +603,8 @@
       <workItem from="1548208328174" duration="5278000" />
       <workItem from="1548235033994" duration="1565000" />
       <workItem from="1549943167892" duration="659000" />
-      <workItem from="1550115266876" duration="11652000" />
+      <workItem from="1550115266876" duration="12851000" />
+      <workItem from="1550454343615" duration="185000" />
     </task>
     <servers />
   </component>
@@ -711,7 +641,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48716000" />
+    <option name="totallyTimeSpent" value="50100000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -730,9 +660,8 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1641791" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2746781" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27825466" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -745,6 +674,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -896,56 +826,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
           <caret line="69" column="16" lean-forward="false" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
-          <folding>
-            <marker date="1548210028000" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1548210028000" expanded="false" signature="166:453" ph="..." />
-            <marker date="1548210028000" expanded="true" signature="945:952" ph="{}" />
-            <marker date="1548210028000" expanded="false" signature="1002:1013" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1042:1048" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1083:1094" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1117:1123" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1173:1184" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1213:1219" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1254:1265" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1288:1294" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1338:1349" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1372:1378" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1410:1421" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1441:1447" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1499:1510" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1541:1547" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1583:1594" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1618:1624" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1672:1683" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1710:1716" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1750:1761" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1783:1789" ph=" }" />
-            <marker date="1548210028000" expanded="true" signature="1829:1840" ph=" { " />
-            <marker date="1548210028000" expanded="true" signature="1861:1867" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1896:1907" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1926:1932" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1970:1981" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="2019:2025" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="2064:2075" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="2102:2108" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="2166:2177" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="2214:2220" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="2260:2271" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="2299:2305" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="2365:2376" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="2415:2421" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="2459:2470" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="2496:2502" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="2558:2569" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="2604:2610" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="2647:2658" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="2683:2689" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="2743:2754" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="2787:2793" ph=" }" />
-            <marker date="1548210028000" expanded="true" signature="2842:3335" ph="{...}" />
-            <marker date="1548210028000" expanded="true" signature="3408:3471" ph="{...}" />
-            <marker date="1548210028000" expanded="true" signature="3521:3882" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -953,48 +833,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="52" column="17" lean-forward="false" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
-          <folding>
-            <marker date="1548210028000" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1548210028000" expanded="false" signature="166:454" ph="..." />
-            <marker date="1548210028000" expanded="true" signature="889:896" ph="{}" />
-            <marker date="1548210028000" expanded="false" signature="946:957" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="986:992" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1027:1038" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1061:1067" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1117:1128" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1157:1163" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1198:1209" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1232:1238" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1282:1293" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1316:1322" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1354:1365" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1385:1391" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1433:1444" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1465:1471" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1502:1513" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1532:1538" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1576:1587" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1626:1632" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1671:1682" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1709:1715" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1773:1784" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1821:1827" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1867:1878" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1906:1912" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1972:1983" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="2022:2028" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="2066:2077" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="2103:2109" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="2165:2176" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="2211:2217" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="2254:2265" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="2290:2296" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="2350:2361" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="2394:2400" ph=" }" />
-            <marker date="1548210028000" expanded="true" signature="2449:2834" ph="{...}" />
-            <marker date="1548210028000" expanded="true" signature="2908:2972" ph="{...}" />
-            <marker date="1548210028000" expanded="true" signature="3022:3101" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1002,40 +840,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="18" />
-          <folding>
-            <marker date="1548210028000" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1548210028000" expanded="false" signature="166:456" ph="..." />
-            <marker date="1548210028000" expanded="true" signature="846:853" ph="{}" />
-            <marker date="1548210028000" expanded="false" signature="913:924" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="963:969" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1009:1020" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1048:1054" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1102:1113" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1140:1146" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1180:1191" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1213:1219" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1257:1268" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1309:1315" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1354:1365" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1392:1398" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1456:1467" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1504:1510" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1550:1561" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1589:1595" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1655:1666" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1705:1711" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1749:1760" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1786:1792" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1848:1859" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1894:1900" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="1937:1948" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="1973:1979" ph=" }" />
-            <marker date="1548210028000" expanded="false" signature="2033:2044" ph=" { " />
-            <marker date="1548210028000" expanded="false" signature="2077:2083" ph=" }" />
-            <marker date="1548210028000" expanded="true" signature="2132:2431" ph="{...}" />
-            <marker date="1548210028000" expanded="true" signature="2507:2573" ph="{...}" />
-            <marker date="1548210028000" expanded="true" signature="2623:2793" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1043,60 +847,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="49" />
-          <folding>
-            <marker date="1549942882000" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1549942882000" expanded="false" signature="166:457" ph="..." />
-            <marker date="1549942882000" expanded="true" signature="977:984" ph="{}" />
-            <marker date="1549942882000" expanded="false" signature="1024:1035" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="1054:1060" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="1090:1101" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="1119:1125" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="1171:1182" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="1207:1213" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="1246:1257" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="1278:1284" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="1334:1345" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="1374:1380" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="1415:1426" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="1449:1455" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="1505:1516" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="1545:1551" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="1586:1597" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="1620:1626" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="1664:1675" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="1692:1698" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="1727:1738" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="1755:1761" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="1797:1808" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="1823:1829" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="1857:1868" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="1884:1890" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="1932:1943" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="1964:1970" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="2001:2012" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="2031:2037" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="2075:2086" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="2128:2134" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="2173:2184" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="2211:2217" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="2275:2286" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="2323:2329" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="2369:2380" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="2408:2414" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="2474:2485" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="2524:2530" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="2568:2579" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="2605:2611" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="2667:2678" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="2713:2719" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="2756:2767" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="2792:2798" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="2852:2863" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="2896:2902" ph=" }" />
-            <marker date="1549942882000" expanded="true" signature="2951:3464" ph="{...}" />
-            <marker date="1549942882000" expanded="true" signature="3541:3608" ph="{...}" />
-            <marker date="1549942882000" expanded="true" signature="3658:3805" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1104,93 +854,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <marker date="1549942882000" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1549942882000" expanded="false" signature="166:454" ph="..." />
-            <marker date="1549942882000" expanded="true" signature="887:894" ph="{}" />
-            <marker date="1549942882000" expanded="false" signature="944:955" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="984:990" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="1025:1036" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="1059:1065" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="1115:1126" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="1155:1161" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="1196:1207" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="1230:1236" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="1280:1291" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="1314:1320" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="1352:1363" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="1383:1389" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="1429:1440" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="1461:1467" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="1496:1507" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="1526:1532" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="1570:1581" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="1620:1626" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="1665:1676" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="1703:1709" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="1767:1778" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="1815:1821" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="1861:1872" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="1900:1906" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="1966:1977" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="2016:2022" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="2060:2071" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="2097:2103" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="2159:2170" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="2205:2211" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="2248:2259" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="2284:2290" ph=" }" />
-            <marker date="1549942882000" expanded="false" signature="2344:2355" ph=" { " />
-            <marker date="1549942882000" expanded="false" signature="2388:2394" ph=" }" />
-            <marker date="1549942882000" expanded="true" signature="2443:2828" ph="{...}" />
-            <marker date="1549942882000" expanded="true" signature="2902:2966" ph="{...}" />
-            <marker date="1549942882000" expanded="true" signature="3016:3161" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/owl/TaobaoProductSearchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/owl/YouZanTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/owl/ImageUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="31" column="7" lean-forward="false" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/owl/AlibabaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="701">
-          <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/search/qunzi.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/search/3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/owl/TaobaoProductSearchTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/owl/YouZanTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/owl/ImageUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/owl/AlibabaTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/search/qunzi.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/search/3.jpg" />
     <entry file="uml://JAVA/java.util.concurrent.CopyOnWriteArrayList">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -1240,7 +912,7 @@
               <point x="0.0" y="15.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="46.0" y="66.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="46.0" y="67.0" />
           <SelectedNodes>
             <node>java.util.concurrent.CopyOnWriteArrayList</node>
           </SelectedNodes>
@@ -1254,7 +926,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
           <caret line="105" column="13" lean-forward="false" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1262,7 +933,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1270,10 +940,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="261" column="5" lean-forward="true" selection-start-line="261" selection-start-column="5" selection-end-line="261" selection-end-column="5" />
-          <folding>
-            <element signature="e#2736#2737#0" expanded="false" />
-            <element signature="e#2786#2787#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1281,7 +947,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="564" column="17" lean-forward="false" selection-start-line="564" selection-start-column="17" selection-end-line="564" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1313,10 +978,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="114" column="7" lean-forward="false" selection-start-line="114" selection-start-column="7" selection-end-line="114" selection-end-column="7" />
-          <folding>
-            <element signature="e#3428#3429#0" expanded="false" />
-            <element signature="e#3485#3486#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1324,7 +985,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
           <caret line="38" column="6" lean-forward="false" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1344,12 +1004,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1055">
           <caret line="395" column="0" lean-forward="true" selection-start-line="395" selection-start-column="0" selection-end-line="395" selection-end-column="0" />
-          <folding>
-            <element signature="e#19296#19297#0" expanded="false" />
-            <element signature="e#19379#19380#0" expanded="false" />
-            <element signature="e#24298#24299#0" expanded="false" />
-            <element signature="e#24363#24364#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1357,10 +1011,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5732">
           <caret line="369" column="26" lean-forward="false" selection-start-line="369" selection-start-column="19" selection-end-line="369" selection-end-column="26" />
-          <folding>
-            <element signature="e#3605#3606#0" expanded="false" />
-            <element signature="e#3644#3645#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1380,10 +1030,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
           <caret line="1275" column="27" lean-forward="false" selection-start-line="1275" selection-start-column="27" selection-end-line="1275" selection-end-column="27" />
-          <folding>
-            <element signature="e#65240#65241#0" expanded="true" />
-            <element signature="e#65287#65288#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1401,14 +1047,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-432">
           <caret line="108" column="17" lean-forward="false" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="330" column="16" lean-forward="false" selection-start-line="330" selection-start-column="16" selection-end-line="330" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="260" column="19" lean-forward="false" selection-start-line="260" selection-start-column="19" selection-end-line="260" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="305" column="34" lean-forward="true" selection-start-line="305" selection-start-column="34" selection-end-line="305" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/owl/BlockingQueue/IndexingExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="54" lean-forward="false" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/owl/BlockingQueue/IndexingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/AbstractQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="93" column="19" lean-forward="false" selection-start-line="93" selection-start-column="19" selection-end-line="93" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2190">
+          <caret line="179" column="7" lean-forward="false" selection-start-line="179" selection-start-column="7" selection-end-line="179" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/PriorityBlockingQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="509" column="16" lean-forward="false" selection-start-line="509" selection-start-column="16" selection-end-line="509" selection-end-column="16" />
+        <state relative-caret-position="4710">
+          <caret line="363" column="23" lean-forward="false" selection-start-line="363" selection-start-column="23" selection-end-line="363" selection-end-column="23" />
           <folding>
             <element signature="e#6196#6197#0" expanded="true" />
             <element signature="e#6248#6249#0" expanded="true" />
@@ -1420,87 +1117,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/owl/BlockingQueue/IndexingExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/owl/BlockingQueue/IndexingService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/AbstractCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="260" column="19" lean-forward="false" selection-start-line="260" selection-start-column="19" selection-end-line="260" selection-end-column="19" />
-          <folding>
-            <element signature="e#8767#8768#0" expanded="true" />
-            <element signature="e#8824#8825#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="330" column="16" lean-forward="false" selection-start-line="330" selection-start-column="16" selection-end-line="330" selection-end-column="16" />
-          <folding>
-            <element signature="e#7388#7389#0" expanded="true" />
-            <element signature="e#7427#7428#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="180" column="0" lean-forward="false" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/BlockingQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="196" column="10" lean-forward="true" selection-start-line="196" selection-start-column="10" selection-end-line="196" selection-end-column="10" />
+        <state relative-caret-position="74">
+          <caret line="179" column="17" lean-forward="false" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="17" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/AbstractQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="93" column="19" lean-forward="false" selection-start-line="93" selection-start-column="19" selection-end-line="93" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2654">
-          <caret line="314" column="7" lean-forward="true" selection-start-line="314" selection-start-column="7" selection-end-line="314" selection-end-column="7" />
-          <folding>
-            <element signature="e#9697#9698#0" expanded="true" />
-            <element signature="e#9732#9733#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/owl/ConcurrentContainer/PriorityBlockingQueueExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="225">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
           </folding>
         </state>
       </provider>
